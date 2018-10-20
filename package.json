@@ -1,0 +1,17 @@
+{
+  "name": "trans_neuron",
+  "version": "1.0.0",
+  "description": "\"simple task for tans_neuron",
+  "main": "neuron.js",
+  "scripts": {
+    "test": "\"\"",
+    "start": "nodemon server.js"
+  },
+  "author": "Muthukumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.4",
+    "moment": "^2.22.2"
+  }
+}
